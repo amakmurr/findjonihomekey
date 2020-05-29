@@ -1,3 +1,5 @@
+[![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
+
 # Find Joni's Home Key
 This code is solution to find how many `.` (dot) become the possibility to find Joni's key from below board.
 <pre>
