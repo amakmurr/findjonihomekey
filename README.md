@@ -21,7 +21,7 @@ If:
 
 `.` (dot) is available floor where Joni can walk and where’s the key kept.
 
-`#` (hashtag) is unavailable floor where Jony’s prohibited to walk it.
+`#` (hashtag) is unavailable floor where Joni’s prohibited to walk it.
 
 `X` is Joni current position.
 
