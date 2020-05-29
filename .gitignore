@@ -1,0 +1,9 @@
+# Python
+.idea/*
+*.pyc
+*.ini
+*.log
+.fuse_hidden*
+venv/
+!test
+test*.*
